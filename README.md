@@ -6,7 +6,7 @@ Uni-tagger is a project that looks at observing RMSD scores of proteins tags app
 - Chitin binding domain (CBD) + 3 Glycine
 - mNEONGreen (mNG) + 5 Glycine
 
-This project utilizes the AlphaFold2 [ColabFold project](https://github.com/sokrypton/ColabFold](https://githubtocolab.com/c-kong-ucsf/TAGScreeningProject/blob/main/UnitaggerProject.ipynb) as the project uses structure prediction from user-input sequences. The sequences are then aligned, and the RMSD values are compared to determine how tagged variants deviate from the native conformational structure. 
+This project utilizes the AlphaFold2 [ColabFold project](https://github.com/sokrypton/ColabFold#readme) as the project uses structure prediction from user-input sequences. The sequences are then aligned, and the RMSD values are compared to determine how tagged variants deviate from the native conformational structure. 
 
 WARNING: This is a proof of concept, there may still many bugs as well as the results may deviate from experimental data. 
 
@@ -14,7 +14,7 @@ WARNING: This is a proof of concept, there may still many bugs as well as the re
 
 No installation required! Just utilize the following link to utilize the tool via Google Colab.
 
-### [Uni-tagger](google.com)
+### [Uni-tagger](https://githubtocolab.com/c-kong-ucsf/TAGScreeningProject/blob/main/UnitaggerProject.ipynb)
 
 ## Instructions
 
