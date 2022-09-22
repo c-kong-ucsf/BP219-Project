@@ -28,6 +28,7 @@ Once you open the Notebook, make sure to run the code in order as many of the fu
 5. Load User Interface
 6. (optional) Open Public URL
 ```
+
 ## References
 
 * Mirdita M, Schütze K, Moriwaki Y, Heo L, Ovchinnikov S and Steinegger M. ColabFold: Making protein folding accessible to all.
